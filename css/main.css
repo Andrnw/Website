@@ -1,0 +1,1021 @@
+html,body{
+    margin: 0;
+    padding: 0;
+    overflow-x: hidden;
+}
+.main-text{
+    display: flex;
+
+}
+
+
+.contact-btn{
+    width: 100px;
+    height: 30px;
+    background-color:rgb(149, 149, 182);
+    border-radius: 12px;
+    margin-top: 100px;
+    font-size:15px;
+}
+
+.contact-btn:hover{
+    background-color:rgb(77, 77, 104);
+    color:white;
+}
+
+.carousel-caption{
+    top:300px;
+    font-size: 30px;
+}
+
+.carousel-caption h1{
+    font-size: 50px;
+}
+
+
+.img-content-home{
+    margin-left: 30px;
+}
+
+.content-home{
+    background-image: url("lines.jpg");
+    display: flex;
+    align-items: center;
+    justify-content:space-evenly;
+    width:auto;
+
+    
+}
+
+.content-text-head{
+    margin-bottom: 30px;
+    margin-top: 30px;
+}
+
+.content-text-para{
+    width: 500px;
+}
+
+.card-img-top{
+    width:50px;
+    position: relative;
+    transform: translate(-25px);
+}
+
+.content-servicii{
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+    margin-top: 100px;
+}
+.card{
+    border: none;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.content-servicii a{
+    margin-top: 10px;
+    transform: translate(15px);
+}
+
+.content-servicii-head{
+    margin-top: 30px;
+    transform: translate(23%);
+}
+.title3card{
+    margin-top: -10px;
+}
+.img-cadastru-reclama{
+    width: 100%;
+    height: 400px;
+    background-image: url("./cadastru1.png");
+    background-repeat: no-repeat;
+    background-size:100% 100%;
+    
+}
+
+
+.main-text-reclama{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    
+}
+
+.main-text-reclama h1{
+    margin-top: 130px;
+    color:white;
+}
+
+.main-text-reclama p{
+    color:white;
+}
+
+.main-text-reclama button{
+    margin-top: 10px;
+    border-radius: none;
+}
+
+.btn-reclama{
+    width: 150px;
+    height: 50px;
+    background-color: rgb(149, 149, 182);
+    border-radius: 12px;
+}
+
+.btn-reclama:hover{
+    background-color:rgb(77, 77, 104);
+    color:white;
+}
+
+.txt-div{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    transform: translate(50%);
+    width:50%;
+    margin-top: 50px;
+}
+.cards{
+    display: flex;
+    align-items: center;
+    justify-content:center;
+    margin-top: 100px;
+}
+
+.card1{
+    background-color: #D1F2EB;
+    width: 400px;
+    height: 300px;
+}
+
+.card2{
+    border: 1px solid;
+    width: 400px;
+    height: 400px;
+    background-color: #48C9B0;
+}
+
+.card3{
+    background-color: #D1F2EB;
+    width: 400px;
+    height: 300px;
+}
+
+.img-card1{
+    width: 50px;
+    transform: translate(180px);
+    margin-top: 30px;
+    
+}
+
+.card-title h5{
+    margin-left: 10px;
+    margin-top: 0px;
+    font-size:15px;
+}
+
+.lista-motive i{
+    color:green;
+    margin-right: 10px;
+}
+
+.lista-motive ul li{
+    list-style: none;
+}
+
+.lista-motive{
+    display: flex;
+    align-items: center;
+    justify-content:space-evenly;
+}
+
+.lista2{
+    margin-left: 15px;
+}
+
+.lista2 li{
+    margin-left: -110px;
+}
+
+.motive-text h1{
+    position: relative;
+    transform: translate(20%);
+    margin-top: 100px;
+}
+
+.servicii-img2{
+    margin-top: 200px;
+    width: 600px;
+    height: 500px;
+}
+
+.servicii-img{
+    width:600px;
+    height: 500px;
+}
+
+.motive-text{
+    background-image: linear-gradient(white,rgb(219, 216, 216));
+}
+
+.footer{
+    background-color:rgba(0, 0, 0, 0.842);
+    width: 100%;
+    height: 100%;
+    margin-top: 100px;
+}
+
+.col{
+    color:white;
+    margin-top:70px;
+}
+
+.col-container{
+    display:flex;
+    flex-direction: column;
+}
+
+
+.copyright{
+    width:100%;
+    height: 30px;
+    background-color: black;
+}
+
+.copyright p{
+    color:white;
+    text-align: center;
+}
+
+.whatsapp{
+    color:green;
+}
+
+.whatsapp-img{
+    position: fixed;
+    bottom:30px;
+    left: 30px;
+    width:50px;
+    margin-right: 10px;
+}
+
+.text-container{
+    width:50%;
+    float: right;
+    margin-top: 50px;
+    margin-right:150px;
+}
+
+.img-container{
+    margin-left: 150px;
+    margin-top: 50px;
+}
+
+.container-text-cadastru{
+text-align: justify;
+width: 500px;
+margin-top: 50px;
+}
+.container-img-cadastru{
+    margin-bottom: 50px;
+    transform: translate(50%,-50%);
+}
+
+.container-text-topografie{
+    text-align: justify;
+    width: 500px;
+    margin-top: 50px;
+    transform: translate(100%);
+}
+
+.container-img-topografie{
+    margin-bottom: -250px;
+    transform: translate(10%,-105%);
+}
+
+.topo-text-wrapper{
+    margin-top: 50px;
+    margin-left: 30px;
+    width: 700px;
+    font-size:20px;
+}
+
+.topo-img-wrapper{
+    transform: translate(50%,-60%);
+}
+.text-wrapper-w{
+    transform: translate(0%,-150px);
+    margin-left: 50px;
+    font-size:20px;
+}
+
+.leg-wrapper-link{
+    color:red;
+    text-decoration: underline;
+}
+.leg-wrapper-link:hover{
+    color:green;
+}
+
+.w-wrapper{
+    margin-left:50px;
+}
+
+.w-wrapper-fa{
+    display: flex;
+    flex-direction: column;
+}
+
+.w-wrapper-fa li{
+    list-style: none;
+}
+
+.w-wrapper-fa i{
+    color:green;
+    margin-right: 10px;
+}
+
+.topo-wrapper-of{
+    width:100%;
+    height:150px;
+    background-color: black;
+    margin-top: 100px;
+    margin-bottom: 50px;
+    opacity: 0.7;
+    color:white;
+    text-align: center;
+
+}
+
+.topo-wrapper-of button{
+    background-color: green;
+    border-radius: 12px;
+    color:white;
+}
+
+.topo-wrapper-of button:hover{
+    width:100px;
+    color:rgb(245, 215, 204);
+}
+
+.as-topo-w-wrapper{
+    margin-left:50px;
+}
+
+.as-topo-wrapper{
+    margin-left: 30px;
+    margin-top: 30px;
+}
+
+.as-topo-w-wrapper li{
+    list-style: none;
+}
+
+.as-topo-w-wrapper i{
+    margin-right: 10px;
+    color:green;
+}
+
+.ur-img-wrapper{
+    margin-top:     0px;
+    margin-right: 30px ;
+    width: 500px;
+    height: 300px;
+    float: right;
+}
+
+.ur-text-container h1{
+    margin-top: 30px;
+}
+
+.cont-wrapper{
+    width:100%;
+    font-size:20px;
+    display: flex;
+    justify-content: space-evenly;
+    margin-top: 30px;
+}
+
+.cont-wrapper-contact{
+    display: flex;
+    flex-direction: column;
+    margin-left: 50px;
+    font-size:20px;
+    transform: translate(0%,100%);
+    width:50%;
+
+}
+
+.cont-wrapper-contact-email{
+    margin-right: 30px;
+    color:green;
+}
+
+.cont-wrapper-contact-phone{
+    margin-right: 10px;
+    color:green;
+}
+
+.form-wrapper{
+    margin-right: 30px;
+}
+
+
+.name{
+    display: flex;
+    align-items: end;
+    flex-direction: column;
+}
+
+.inputName{
+    width:300px;
+}
+
+.name-firm-wrapper{
+    display: flex;
+    margin-top: 30px;
+    margin-bottom: 30px;
+}
+
+.email-phone-wrapper{
+    display: flex;
+    justify-content: space-between;
+    margin-bottom: 30px;
+    
+}
+
+.inputMessage{
+    display: flex;
+    flex-direction: column;
+}
+
+.selectc{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-bottom: 30px;
+}
+
+.cont-container-ph{
+    border-right: 1px solid;
+    margin-right: 60px;
+}
+
+.sendMessage{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.sendMessage button{
+    margin-top: 30px;
+    width: 150px;
+    background-color: green;
+    color:white;
+}
+
+
+.inputname{
+    border-top: none;
+    border-left: none;
+    border-right: none;
+    border-bottom: 1px solid green;
+}
+
+.inputFirma{
+    border-top: none;
+    border-left: none;
+    border-right: none;
+    border-bottom: 1px solid green;
+}
+
+.inputMessage{
+    border-top: none;
+    border-left: none;
+    border-right: none;
+    border-bottom: 1px solid green;
+}
+
+.inputEmail{
+    border-top: none;
+    border-left: none;
+    border-right: none;
+    border-bottom: 1px solid green;
+}
+
+.inputPhone{
+    border-top: none;
+    border-left: none;
+    border-right: none;
+    border-bottom: 1px solid green;
+}
+
+.cookies{
+    width:70%;
+    margin-left: 250px;
+    margin-top: 50px;
+}
+
+.burger{
+    display: none;
+}
+
+.burger div{
+    width: 25px;
+    height: 3px;
+    background-color: red;
+    margin: 5px;
+}
+
+.container-text-servicii-cadastru{
+    margin-bottom: 50px;
+    margin-left: 50px;
+}
+
+.wrapper-topografie-servicii{
+    margin-top:50px;
+    margin-left: 50px;
+}
+
+.wrapper-servicii-geodezie{
+    margin-left: 50px;
+}
+
+.nav-link{
+    color:white;
+}
+
+.nav-link:hover{
+    color:green;
+}
+.link-site{
+    color:green;
+}
+.link-site:hover{
+    color:coral;
+}
+.serv-cad-int{
+    color:green;
+}
+
+.serv-cad-int:hover{
+    color:red;
+}
+@media screen and (max-width:800px) {
+    .img-fluid{
+        height: 300px;
+    }
+
+    .carousel-caption{
+        top:100px;
+        font-size: 30px;
+    }
+
+    .carousel-caption h1{
+        font-size: 15px;
+    }
+
+    .carousel-caption p{
+        font-size:13px;
+    }
+
+    .contact-btn{
+        width: 100px;
+        height: 30px;
+        background-color:rgb(149, 149, 182);
+        border-radius: 12px;
+        margin-top: 20px;
+        font-size: 15px;
+    }
+    
+    .contact-btn:hover{
+        background-color:rgb(77, 77, 104);
+        color:white;
+    }
+
+    .content-text-head{
+        margin-bottom: 20px;
+        margin-top: 30px;
+        margin-left: 300px;
+        font-size: 20px;
+        width: 600px;
+    }
+
+    .content-text-para{
+        margin-left: 300px;
+        width: 280px;
+        font-size:10px;
+    }
+
+    .img-content-home{
+        display:none;
+    }
+
+    .content-servicii-head{
+        margin-top: 30px;
+        transform: translate(3%);
+        font-size:20px;
+    }
+
+    .content-servicii a{
+        margin-top: 10px;
+        transform: translate(0px);
+        width: 80px;
+        height: 20px;
+        font-size: 7px;
+    }
+
+    .card-body h5{
+        font-size: 15px;
+    }
+
+    .card-body p{
+        font-size:10px;
+    }
+
+    .card-img-top{
+        transform: translate(1%);
+    }
+
+    .img-cadastru-reclama{
+        width: 100%;
+        height: 400px;
+        background-image: url("./cadastru1.png");
+        background-repeat: no-repeat;
+        background-size:100% 70%;
+        
+    }
+    .text-container h3{
+    transform: translate(55%,-10%);
+    margin-top: -50px;
+    margin-bottom: 30px;
+}
+
+    .text-container p {
+    transform: translate(50%,-30%);
+}
+
+.text-container{
+    width:100%;
+    margin-bottom: -90px;
+}
+
+.imgimg{
+    display: none;
+    margin-bottom: 50px;
+}
+
+    .main-text-reclama h1{
+        margin-top: 50px;
+        color:white;
+        font-size: 15px;
+    }
+
+    .maine-text-reclama p{
+        font-size:10px;
+    }
+
+    .btn-reclama{
+        width:120px;
+        height: 30px;
+    }
+
+    .txt-div{
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        flex-direction: column;
+        transform: translate(50%,-70%);
+        width:50%;
+        
+    }
+
+    .ur-text-container{
+        width:100%;
+        font-size: 15px;
+        transform: translate(1%);
+    }
+
+    .cards{
+        display: flex;
+        align-items: center;
+        justify-content:center;
+        margin-top: 10px;
+    }
+
+    .card1{
+        background-color: #D1F2EB;
+        width: 110px;
+        height: 160px;
+    }
+
+    .card2{
+        background-color: #48C9B0;
+        width:150px;
+        height: 200px;
+    }
+
+    .card3{
+        background-color: #D1F2EB;
+        width: 110px;
+        height: 160px;
+    }
+
+    .img-card1{
+        width: 30px;
+        transform: translate(50px);
+        margin-top: 10px;
+        
+    }
+
+    .card-title h1{
+        margin-left: 7px;
+        margin-top: 10px;
+        font-size: 15px;
+    }
+    .motive-text h1{
+        position: relative;
+        transform: translate(10%);
+        margin-top: 50px;
+        font-size:30px;
+    }
+
+    .servicii-img{
+        display: none;
+    }
+
+    .lista-motive i{
+        color:green;
+        margin-right: 10px;
+    }
+
+    .lista-motive{
+        display: flex;
+        align-items: center;
+        justify-content:space-evenly;
+        transform: translate(-25px,10px);
+        font-size: 25px;
+    }
+
+    .servicii-img2{
+       display: none;
+    }
+
+    .lista2 h2{
+        transform: translate(-10%);
+    }
+    .lista2{
+        transform: translate(27%);
+    }
+
+    .col{
+        color:white;
+        margin-top:10px;
+        font-size: 10px;
+    }
+
+    .col h5{
+        transform: translate(0%, -15%);
+        font-size:15px;
+    }
+
+    .col h4{
+        transform: translate(0%, -80%);
+        font-size: 15px;
+        color:red;
+    }
+    .container-text-cadastru p{
+        font-size:15px;
+        width: 100%;
+        transform: translate(5%);
+    }
+
+    .container-text-cadastru{
+        width:90%;
+    }
+
+    .container-text-topografie{
+        display: flex;
+        flex-direction: column;
+    }
+
+    .container-text-topografie{
+        transform: translate(0%,-20%);
+        width: 90%;
+    }
+
+.container-img-cadastru{
+    text-align: justify;
+    width:100%;
+    transform: translate(20%);
+
+}
+
+.img-cadastru{
+    width:60%;
+}
+
+.container-img-topografie{
+    text-align: justify;
+    width:60%;
+    transform: translate(40%,-50%);
+
+}
+
+.img-topografie{
+    width:80%;
+}
+
+
+    .footer{
+        background-color:rgba(0, 0, 0, 0.842);
+        width: 100%;
+        height: 100%;
+        margin-top: 130px;
+        
+    }
+    
+
+    .col-container{
+        transform: translate(0%,-90%);
+    }
+
+    .col h4{
+        transform: translate(0%,-200%);
+    }
+
+    .col-h5{
+        transform: translate(0%, -140%);
+    }
+
+    .copyright{
+        font-size: 9px;
+    }
+
+    .text-container{
+        transform: translate(-10%,-50%);
+        width: 300px;
+        font-size: 10px;
+    }
+    .imgimg{
+        transform: translate(0%,-30%);
+    }
+
+    .topo-img-wrapper{
+        display: none;
+    }
+
+    .text-wrapper-w{
+        transform: translate(-5%,5px);
+        margin-left: 50px;
+        font-size:20px;
+    }
+
+    .as-topo-w-wrapper{
+        margin-left:10px;
+    }
+
+    .ur-img-wrapper{
+        margin-top: 0px;
+        margin-right: 45px;
+        width: 300px;
+        height: 200px;
+        float: right;
+    }
+
+    .ur-text-container h1{
+        margin-left: 10px;
+        margin-top: 30px;
+        font-size: 20px;
+    }
+    
+    .cont-wrapper{
+        width:100%;
+        font-size:20px;
+        display: flex;
+        justify-content: center;
+        flex-direction: column;
+        margin-top: 30px;
+    }
+
+    .cont-container-ph{
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        flex-direction: column;
+        border: none;
+        transform: translate(5%);
+        
+    }
+
+    .cont-container-ph p{
+        font-size:15px;
+        width:100%;
+        transform: translate(5%);
+    }
+
+    .form-wrapper{
+        margin-top: 150px;
+        margin-right: 20px;
+        margin-left: 30px;
+        width: 70%;
+    }
+
+    .cont-wrapper-contact{
+        display: flex;
+        flex-direction: column;
+        margin-left: 50px;
+        font-size:20px;
+        width:80%;
+        transform: translate(-10%,100%);
+    
+    }
+    .name-firm-wrapper{
+        display: flex;
+        flex-direction: column;
+        
+    }
+    .email-phone-wrapper{
+        display: flex;
+        flex-direction: column;
+    }
+
+    .inputname{
+        width: 100%;
+    }
+    .inputFirma{
+        width:120%;
+    }
+    .inputEmail{
+        width:110%;
+    }
+    .inputPhone{
+        width:110%;
+    }
+
+    .inputMessage{
+        width:110%;
+    }
+
+    .selectc{
+        margin-left: 50px;
+    }
+
+    .sendMessage{
+        width: 110%;
+    }
+
+    .sendmessage{
+        width:100%;
+        margin-left: 30px;
+        margin-top:50px;
+    }
+    .cookies{
+        width: 90%;
+        margin-left: 20px;
+    }
+    .nav-links{
+        position: absolute;
+        right:0px;
+        height: 92vh;
+        top:8vh;
+    }
+    
+    .topo-text-wrapper{
+        width:90%;
+    }
+
+    .container-text-servicii-cadastru{
+        margin-top: 130px;
+        margin-left: 10px;
+    }
+
+    .wrapper-topografie-servicii{
+        margin-top:50px;
+        margin-left: 10px;
+    }
+
+    .wrapper-servicii-geodezie{
+        margin-left: 10px;
+    }
+    .thanksmessagewrapper{
+        font-size:15px;
+        transform: translate(15%,-30%);
+    }
+
+}
+
+
+
+
+
+
+
+
+
+

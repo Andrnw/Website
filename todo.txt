@@ -1,0 +1,12 @@
+-6 pages remaining
+	-Topografie -DONE
+	-Asistenta - DONE
+	-urmarire - DONE 
+	-politica - 
+	-cookies -DONE
+	-contact -DE MODIFICAT
+	-resize 
+-Hamburger menu - DONE
+-jQuery/Javascript to add
+-php contact form to add
+-Upload website
